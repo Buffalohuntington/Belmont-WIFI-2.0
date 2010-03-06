@@ -1,0 +1,485 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* BelmontWifiAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {615, 636}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 489}";
+		};
+	};
+	1D3623250D0F684500981E51 /* BelmontWifiAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {894, 644}}";
+			sepNavSelRange = "{437, 47}";
+			sepNavVisRange = "{0, 974}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* BelmontWifi */ = {
+		activeExec = 0;
+		executables = (
+			2413068911278AF600C7738D /* BelmontWifi */,
+		);
+	};
+	2413068911278AF600C7738D /* BelmontWifi */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BelmontWifi;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	2413069A11278B0200C7738D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	2413069B11278B0200C7738D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	241306C81128CF7E00C7738D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BelmontWifi-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/milk/BelmontWifi/BelmontWifi-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	241306C91128CF7E00C7738D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	241306CC1128CF7E00C7738D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 675;
+		vrLoc = 788;
+	};
+	241306CD1128CF7E00C7738D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C950DB411BC00E5133A /* FirstViewController.h */;
+		name = "FirstViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 242;
+		vrLoc = 0;
+	};
+	241306CF1128CF7E00C7738D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* BelmontWifiAppDelegate.h */;
+		name = "BelmontWifiAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 489;
+		vrLoc = 0;
+	};
+	241306D01128CF7E00C7738D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BelmontWifiAppDelegate.m */;
+		name = "BelmontWifiAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 942;
+		vrLoc = 32;
+	};
+	241306DA1128CF7E00C7738D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BelmontWifi-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/milk/BelmontWifi/BelmontWifi-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	241306DC1128CF7E00C7738D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	2437E77B113900D40040554F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 24ECEA5A1130F2360040FC26 /* tab_img_settings.png */;
+	};
+	2498126C1142E0AD000EABC3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 24ECEA5A1130F2360040FC26 /* tab_img_settings.png */;
+	};
+	24ECEA1C1130B5200040FC26 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 24ECEA061130AB810040FC26 /* tab_img_b.png */;
+	};
+	24ECEA261130B5200040FC26 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 24ECEA061130AB810040FC26 /* tab_img_b.png */;
+	};
+	24ECEA3E1130E1A90040FC26 /* NewsTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {615, 636}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 255}";
+		};
+	};
+	24ECEA3F1130E1A90040FC26 /* NewsTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {918, 2212}}";
+			sepNavSelRange = "{2744, 3}";
+			sepNavVisRange = "{1860, 1774}";
+		};
+	};
+	24ECEA461130E4C90040FC26 /* EventsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {615, 636}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 244}";
+		};
+	};
+	24ECEA4B1130E4F20040FC26 /* SettingsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {615, 636}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 248}";
+		};
+	};
+	24ECEA5D113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* BelmontWifiAppDelegate.h */;
+		name = "BelmontWifiAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 489;
+		vrLoc = 0;
+	};
+	24ECEA5E113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BelmontWifiAppDelegate.m */;
+		name = "BelmontWifiAppDelegate.m: 21";
+		rLen = 47;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 974;
+		vrLoc = 0;
+	};
+	24ECEA5F113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1149;
+		vrLoc = 0;
+	};
+	24ECEA60113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C950DB411BC00E5133A /* FirstViewController.h */;
+		name = "FirstViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 242;
+		vrLoc = 0;
+	};
+	24ECEA61113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24ECEA3E1130E1A90040FC26 /* NewsTableViewController.h */;
+		name = "NewsTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	24ECEA62113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24ECEA3F1130E1A90040FC26 /* NewsTableViewController.m */;
+		name = "NewsTableViewController.m: 105";
+		rLen = 3;
+		rLoc = 2744;
+		rType = 0;
+		vrLen = 1774;
+		vrLoc = 1860;
+	};
+	24ECEA63113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24ECEA461130E4C90040FC26 /* EventsViewController.h */;
+		name = "EventsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 0;
+	};
+	24ECEA64113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24ECEA4B1130E4F20040FC26 /* SettingsViewController.h */;
+		name = "SettingsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 0;
+	};
+	24ECEA65113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28AD73870D9D96C1002E5188 /* MainWindow.xib */;
+		name = "MainWindow.xib: 478";
+		rLen = 0;
+		rLoc = 20628;
+		rType = 0;
+		vrLen = 1526;
+		vrLoc = 1078;
+	};
+	24ECEA66113121630040FC26 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 24ECEA541130E9250040FC26 /* tab_img_news.png */;
+	};
+	24ECEA67113121630040FC26 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 24ECEA581130EDC80040FC26 /* tab_img_events.png */;
+	};
+	24ECEA6B113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28AD73870D9D96C1002E5188 /* MainWindow.xib */;
+		name = "MainWindow.xib: 49";
+		rLen = 10;
+		rLoc = 2157;
+		rType = 0;
+		vrLen = 2205;
+		vrLoc = 1163;
+	};
+	24ECEA76113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24ECEA3E1130E1A90040FC26 /* NewsTableViewController.h */;
+		name = "NewsTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	24ECEA77113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24ECEA3F1130E1A90040FC26 /* NewsTableViewController.m */;
+		name = "NewsTableViewController.m: 105";
+		rLen = 3;
+		rLoc = 2744;
+		rType = 0;
+		vrLen = 1774;
+		vrLoc = 1860;
+	};
+	24ECEA78113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24ECEA461130E4C90040FC26 /* EventsViewController.h */;
+		name = "EventsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 0;
+	};
+	24ECEA79113121630040FC26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24ECEA4B1130E4F20040FC26 /* SettingsViewController.h */;
+		name = "SettingsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 0;
+	};
+	24ECEA7B113121630040FC26 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 24ECEA541130E9250040FC26 /* tab_img_news.png */;
+	};
+	24ECEA7C113121630040FC26 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 24ECEA581130EDC80040FC26 /* tab_img_events.png */;
+	};
+	24ECEA7D113121630040FC26 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 24ECEA5A1130F2360040FC26 /* tab_img_settings.png */;
+	};
+	28216C950DB411BC00E5133A /* FirstViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {615, 636}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 242}";
+		};
+	};
+	28216C960DB411BC00E5133A /* FirstViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {615, 826}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1149}";
+			sepNavWindowFrame = "{{38, 145}, {673, 707}}";
+		};
+	};
+	28AD73870D9D96C1002E5188 /* MainWindow.xib */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {615, 6538}}";
+			sepNavSelRange = "{20628, 0}";
+			sepNavVisRange = "{1078, 1526}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2413068911278AF600C7738D /* BelmontWifi */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BelmontWifi */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* BelmontWifi */,
+		);
+		codeSenseManager = 2413069B11278B0200C7738D /* Code sense */;
+		executables = (
+			2413068911278AF600C7738D /* BelmontWifi */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					324.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					437,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					397,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 289595537;
+			PBXWorkspaceStateSaveDate = 289595537;
+		};
+		perUserProjectItems = {
+			241306C81128CF7E00C7738D = 241306C81128CF7E00C7738D /* PlistBookmark */;
+			241306C91128CF7E00C7738D = 241306C91128CF7E00C7738D /* PBXTextBookmark */;
+			241306CC1128CF7E00C7738D = 241306CC1128CF7E00C7738D /* PBXTextBookmark */;
+			241306CD1128CF7E00C7738D = 241306CD1128CF7E00C7738D /* PBXTextBookmark */;
+			241306CF1128CF7E00C7738D = 241306CF1128CF7E00C7738D /* PBXTextBookmark */;
+			241306D01128CF7E00C7738D = 241306D01128CF7E00C7738D /* PBXTextBookmark */;
+			241306DA1128CF7E00C7738D = 241306DA1128CF7E00C7738D /* PlistBookmark */;
+			241306DC1128CF7E00C7738D = 241306DC1128CF7E00C7738D /* PBXTextBookmark */;
+			2437E77B113900D40040554F = 2437E77B113900D40040554F /* PBXBookmark */;
+			2498126C1142E0AD000EABC3 /* PBXBookmark */ = 2498126C1142E0AD000EABC3 /* PBXBookmark */;
+			24ECEA1C1130B5200040FC26 = 24ECEA1C1130B5200040FC26 /* PBXBookmark */;
+			24ECEA261130B5200040FC26 = 24ECEA261130B5200040FC26 /* PBXBookmark */;
+			24ECEA5D113121630040FC26 = 24ECEA5D113121630040FC26 /* PBXTextBookmark */;
+			24ECEA5E113121630040FC26 = 24ECEA5E113121630040FC26 /* PBXTextBookmark */;
+			24ECEA5F113121630040FC26 = 24ECEA5F113121630040FC26 /* PBXTextBookmark */;
+			24ECEA60113121630040FC26 = 24ECEA60113121630040FC26 /* PBXTextBookmark */;
+			24ECEA61113121630040FC26 = 24ECEA61113121630040FC26 /* PBXTextBookmark */;
+			24ECEA62113121630040FC26 = 24ECEA62113121630040FC26 /* PBXTextBookmark */;
+			24ECEA63113121630040FC26 = 24ECEA63113121630040FC26 /* PBXTextBookmark */;
+			24ECEA64113121630040FC26 = 24ECEA64113121630040FC26 /* PBXTextBookmark */;
+			24ECEA65113121630040FC26 = 24ECEA65113121630040FC26 /* PBXTextBookmark */;
+			24ECEA66113121630040FC26 = 24ECEA66113121630040FC26 /* PBXBookmark */;
+			24ECEA67113121630040FC26 = 24ECEA67113121630040FC26 /* PBXBookmark */;
+			24ECEA6B113121630040FC26 = 24ECEA6B113121630040FC26 /* PBXTextBookmark */;
+			24ECEA76113121630040FC26 = 24ECEA76113121630040FC26 /* PBXTextBookmark */;
+			24ECEA77113121630040FC26 = 24ECEA77113121630040FC26 /* PBXTextBookmark */;
+			24ECEA78113121630040FC26 = 24ECEA78113121630040FC26 /* PBXTextBookmark */;
+			24ECEA79113121630040FC26 = 24ECEA79113121630040FC26 /* PBXTextBookmark */;
+			24ECEA7B113121630040FC26 = 24ECEA7B113121630040FC26 /* PBXBookmark */;
+			24ECEA7C113121630040FC26 = 24ECEA7C113121630040FC26 /* PBXBookmark */;
+			24ECEA7D113121630040FC26 = 24ECEA7D113121630040FC26 /* PBXBookmark */;
+		};
+		sourceControlManager = 2413069A11278B0200C7738D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {615, 613}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 365}";
+		};
+	};
+}
